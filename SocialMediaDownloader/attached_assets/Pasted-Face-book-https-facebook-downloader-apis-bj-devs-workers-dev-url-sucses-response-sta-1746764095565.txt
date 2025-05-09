@@ -1,0 +1,40 @@
+Face book https://facebook-downloader.apis-bj-devs.workers.dev/?url=
+
+sucses response
+
+{
+  "status": true,
+  "data": {
+    "thumbnail": "https://scontent-sin6-3.xx.fbcdn.net/v/t15.5256-10/489139016_1195212785492319_4437700412198048874_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=50ce42&_nc_ohc=ZQqn4_iafVwQ7kNvwFDQOnW&_nc_oc=AdlicyboVnRXrqB6NCOQWR1q7cwNa0uM0hTyxELvY31wsjJj6db3kSbmBR42B5o0FyQ&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=6GcXfeWWbUkAsy2Y5axvZg&oh=00_AfKf1rRdVpAW3qAh8SsjaI2sDPxH6vQBr993Yb09QQ3i9Q&oe=68235E04",
+    "quality": "HD",
+    "url": "https://video-sin6-3.xx.fbcdn.net/o1/v/t2/f2/m69/AQNNx1QxVJPnkGzWPD8lkQWNBqga6Ivx1_ZCTjNKp33vaCDXNo-AEXQEj5-LMjdWhlu7C3XrRMQmbU2Qm6z9IW9O.mp4?strext=1&_nc_cat=106&_nc_sid=5e9851&_nc_ht=video-sin6-3.xx.fbcdn.net&_nc_ohc=9mSbZYqYQ0cQ7kNvwEkeG7o&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjMyMTY5NjgzNDY5NTksInZpX3VzZWNhc2VfaWQiOjEwMTIxLCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b0f301b3cf0ad628&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTm8tSXgxTS1UMzZCd3NPQU5LbE1UQnNTR29PYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQc3dIQjNENXhhRkZqNENBSFdmT1dwd0dDZ0JickZxQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJp61j-OR_JAEFQIoAkMzLBdANLhR64UeuBgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQJlkp4BAA&_nc_zt=28&oh=00_AfJGtIuyiUIoAM4ClvWr8fPK3xvPiWt_eZZjHSv_aJS06w&oe=68233FDC",
+    "join": "@BJ_Devs on Telegram",
+    "Dev": "@BJ_Coder"
+  }
+}
+
+TikTok API URL = https://tele-social.vercel.app/down?url=
+
+sucses respone 
+
+{
+  "platform": "TikTok",
+  "status": true,
+  "data": {
+    "video": "https://v16m-default.tiktokcdn.com/b564a260c6222ccfa2305bcdaefa4ef9/681dd014/video/tos/alisg/tos-alisg-pve-0037c001/ok9IPLQueLazACoFeP8bj4ADhIIkeD3GEX7LAc/?a=0&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C0&cv=1&br=2972&bt=1486&cs=0&ds=6&ft=EeF4ntZWD03Q12NvM1.aWIxRSfYFpq_45SY&mime_type=video_mp4&qs=0&rc=ZTk2Z2c2Zjs5Zjw2NTloaEBpanFza3k5cmV4eDMzODczNEBeY2I0LzEwNTQxNTYvNDZjYSNtaXM0MmRjbF9gLS1kMTFzcw%3D%3D&vvpl=1&l=20250509115059D8680341693A7101880D&btag=e000b8000",
+    "audio": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7464695116134599440.mp3"
+  },
+  "creator": {
+    "username": "rahzxi",
+    "name": "%E2%80%A2%F0%9D%90%91%F0%9D%90%80%F0%9D%90%87%F0%9D%90%99%F0%9D%90%97%F0%9D%90%88%E2%80%A2",
+    "profile_photo": "https%3A%2F%2Fp16-sign-sg.tiktokcdn.com%2Ftos-alisg-avt-0068%2Fb8b32857adb629e6085a401a6c6f03c8~tplv-tiktokx-cropcenter%3A300%3A300.jpeg%3Fdr%3D14577%26refresh_token%3D63348360%26x-expires%3D1746846000%26x-signature%3DFfHiblXrTm9llQeuqNprWRWDhmI%253D%26t%3D4d5b0474%26ps%3D13740610%26shp%3D45126217%26shcp%3Dd05b14bd%26idc%3Dmaliva"
+  },
+  "details": {
+    "total_views": 5361232,
+    "total_likes": 815456,
+    "total_comment": 3625,
+    "total_share": 89231,
+    "total_download": 21062,
+    "video_duration": 17
+  }
+}
